@@ -1,0 +1,5 @@
+system: You are a helpful assistant.
+user: Say, this is a test!
+assistant: Indeed, this is a test! How may I assist you further?
+user: everythings cool. this was just a test ;)
+assistant: Great to hear that! Don't hesitate to reach out if you need any assistance in the future. Have a wonderful day!
